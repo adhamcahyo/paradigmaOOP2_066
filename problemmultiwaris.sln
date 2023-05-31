@@ -10,7 +10,7 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polimorpi", "polimorpi\polimorpi.vcxproj", "{BC14AAE7-11BD-49D8-9B8D-3EA4B09630D9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noOverriding", "noOverriding\noOverriding.vcxproj", "{73D753C4-468A-42AC-9937-DBFBDA20FD63}"
-EndProject
+EndProject 
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noPewarisan", "noPewarisan\noPewarisan.vcxproj", "{F8537010-72AE-4D63-8F10-E090931F0977}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapsulasi", "enkapsulasi\enkapsulasi.vcxproj", "{719C9959-F769-4F7B-BCBD-AC54087E7C60}"
