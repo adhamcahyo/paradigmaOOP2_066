@@ -14,7 +14,7 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noPewarisan", "noPewarisan\noPewarisan.vcxproj", "{F8537010-72AE-4D63-8F10-E090931F0977}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapsulasi", "enkapsulasi\enkapsulasi.vcxproj", "{719C9959-F769-4F7B-BCBD-AC54087E7C60}"
-EndProject
+EndProject 
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraksi", "abstraksi\abstraksi.vcxproj", "{2186F1F0-8B07-45E6-92C4-E7661B427534}"
 EndProject
 Global
