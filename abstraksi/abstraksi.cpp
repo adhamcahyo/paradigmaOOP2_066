@@ -4,7 +4,7 @@ using namespace std;
 
 class Abstraksiklas {
 private: string x, y;
-
+  
 public:
 
 	//method untuk mengisi nilai
