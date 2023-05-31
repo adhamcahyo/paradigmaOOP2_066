@@ -10,7 +10,7 @@ public:
 	}
 	string getsaklarNo(int i) {
 		return saklarNo[i];
-	}
+	} 
 };
 
 int main() {
